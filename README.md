@@ -1,4 +1,4 @@
-# SoundLink 🎧
+# SoundLink 
 
 **Where underground electronic music meets community.**
 
