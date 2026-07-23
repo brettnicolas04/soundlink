@@ -25,8 +25,14 @@ A genre-specific, location-based platform that filters people, content, and oppo
 | Document | Description |
 |---|---|
 | [`SoundLink Final Report.pdf`](./SoundLink%20Final%20Report.pdf) | Full combined business plan (market, model, financials, risk) |
+*
+if the preview doesn't load, click "Download raw file"
+*
 | [`financial-model.xlsx`](./docs/financial-model.xlsx) | 9-sheet financial model — P&L, cash flow, balance sheet, CAC/LTV, sensitivity analysis |
 | [`SoundLink Pitch.pptx.pdf`](./SoundLink%20Pitch.pptx.pdf) | Investor pitch deck |
+*
+if the preview doesn't load, click "Download raw file"
+*
 
 ## Key numbers (Year 1 projection)
 
