@@ -22,48 +22,11 @@ A genre-specific, location-based platform that filters people, content, and oppo
 
 ## What's in this repo
 
-## What's in this repo
+- **[`SoundLink Final Report.pdf`](./SoundLink%20Final%20Report.pdf)** — Full combined business plan (market, model, financials, risk)
+- **[`financial-model.xlsx`](./docs/financial-model.xlsx)** — 9-sheet financial model: P&L, cash flow, balance sheet, CAC/LTV, sensitivity analysis
+- **[`SoundLink Pitch.pptx.pdf`](./SoundLink%20Pitch.pptx.pdf)** — Investor pitch deck
 
-
-|
- Document 
-|
- Description 
-|
-|
----
-|
----
-|
-|
-[
-`SoundLink Final Report.pdf`
-](
-./SoundLink%20Final%20Report.pdf
-)
-|
- Full combined business plan (market, model, financials, risk) 
-|
-|
-[
-`financial-model.xlsx`
-](
-./docs/financial-model.xlsx
-)
-|
- 9-sheet financial model — P&L, cash flow, balance sheet, CAC/LTV, sensitivity analysis 
-|
-|
-[
-`SoundLink Pitch.pptx.pdf`
-](
-./SoundLink%20Pitch.pptx.pdf
-)
-|
- Investor pitch deck 
-|
-
-*If a preview fails to load, click "Download raw file" — the files themselves are not
+*If a preview fails to load, click "Download raw file" — the files themselves are not broken.*
 ## Key numbers (Year 1 projection)
 
 - Revenue: €30,721 | Net profit: €1,302 | Gross margin: 96%
